@@ -1,1 +1,1 @@
-MVA - Deep Learning - Second TP
+MVA MSc - Deep Learning - Second TP
